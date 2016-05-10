@@ -1,0 +1,29 @@
+
+#Wrapper{
+	height:900px;
+	width: 600px;
+	background:#FF0000;
+	margin: auto;
+	text-align: center;
+	font-size: 30px;
+}
+
+#Header{
+color:blue;
+font-family:sans-serif;
+border:solid black 3px;
+}
+
+
+#Nav{
+height: 30px;
+border:solid black 3px;
+border-top: none;
+}
+
+.buttoon{
+	width:100px;
+	border-left: solid blue 3px;
+	font-size: 15px;
+	display:inline;
+}
