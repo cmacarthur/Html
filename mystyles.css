@@ -1,0 +1,45 @@
+body{
+background-image: url("dj.jpg");
+
+}
+
+#Wrapper{
+	height:900px;
+	width: 600px;
+	margin: auto;
+	text-align: center;
+	font-size: 30px;
+}
+
+#Header{
+	opacity:0.75;
+color:blue;
+font-family:sans-serif;
+border:solid black 3px;
+background: #FF0000;
+}
+
+
+#Nav{
+opacity:0.75;
+height: 30px;
+border:solid black 3px;
+border-top: none;
+background: #FF0000;
+}
+
+.buttoon{
+	width:100px;
+	border-left: solid blue 3px;
+	font-size: 15px;
+	display:inline;
+}
+
+#Main{
+	opacity: 0.75;
+	height:750px;
+	background: blue;
+	margin: auto;
+	text-align: center;
+	font-size: 30px;
+}
